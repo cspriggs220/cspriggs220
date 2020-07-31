@@ -1,6 +1,6 @@
 ### Hey, I'm Cody Spriggs! 👋
 
-Amongst other things, I'm a music lover 🎸 and Software Engineer 💻 at [Ramsey Solutions](https://www.ramseyinhouse.com/). 
+Amongst other things, I'm a music lover 🎸 and Front End Engineer 💻 at [Ramsey Solutions](https://www.ramseyinhouse.com/). 
 
 I'm proud of the work that we do, bringing hope through the tools and solutions that we get to build.
 
