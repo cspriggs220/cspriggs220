@@ -1,4 +1,4 @@
-### Hey, I'm Cody Spriggs! 👋
+### Hey, I'm Cody! 👋
 
 Amongst other things, I'm a music lover 🎸 and Front End Engineer 💻 at [Ramsey Solutions](https://www.ramseyinhouse.com/). 
 
